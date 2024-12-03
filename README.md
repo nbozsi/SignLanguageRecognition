@@ -17,3 +17,4 @@ Features:
 
 Unfortunately, only ~10k of the 17k+ videos were available, that's ~9.5 videos on average for each distinct word.
 ![alt text](./images/video_dist.svg)
+![alt text](./images/wordcloud.svg)
