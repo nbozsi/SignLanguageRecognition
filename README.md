@@ -16,4 +16,4 @@ Features:
   - ℹ️ other metadata about the video
 
 Unfortunately, only ~10k of the 17k+ videos were available, that's ~9.5 videos for each distinct word.
-![alt text](https://github.com/nbozsi/SignLanguageRecognition/blob/main/video_dist.jpg)
+![alt text](./images/video_dist.svg)
