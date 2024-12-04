@@ -18,3 +18,21 @@ Features:
 Unfortunately, only ~10k of the 17k+ videos were available, that's ~9.5 videos on average for each distinct word.
 ![alt text](./images/video_dist.svg)
 ![alt text](./images/wordcloud.svg)
+
+
+## The Model
+Neural Network made with Tensorflow.
+We made the model for the top 20 and the top 30 most common words in the dataset.
+
+## Evalutaion
+### TOP 20
+![alt text](./images/confusion_matrix_20.png)
+<p align="center">
+    <img src="./images/model_accuracy_20.png">
+</p>
+
+### TOP 30
+![alt text](./images/confusion_matrix_30.png)
+<p align="center">
+    <img src="./images/model_accuracy_30.png">
+</p>
